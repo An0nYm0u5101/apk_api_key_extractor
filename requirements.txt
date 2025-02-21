@@ -7,6 +7,6 @@ retry_decorator==1.1.0
 matplotlib==2.1.0
 plotly==2.2.1
 flufl.lock==3.2
-pyelftools==0.24
+pyelftools==0.31
 scikit_learn==0.19.1
 pyyaml>=4.2b1
